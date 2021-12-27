@@ -55,5 +55,4 @@ Also, learning **Django and React**
 <p align="left">
 <a href="https://linkedin.com/in/maideyildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maideyildiz" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maideyildiz&show_icons=true&locale=en" alt="maideyildiz" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maideyildiz&show_icons=true&locale=en&layout=compact" alt="maideyildiz" /></p>
