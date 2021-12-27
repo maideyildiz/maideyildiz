@@ -55,4 +55,5 @@ Also, learning **Django and React**
 <p align="left">
 <a href="https://linkedin.com/in/maideyildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maideyildiz" height="30" width="40" /></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maideyildiz)](https://github.com/maideyildiz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maideyildiz)](https://github.com/anuraghazra/github-readme-stats)
+
