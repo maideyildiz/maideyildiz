@@ -1,5 +1,5 @@
 ### Hi there I am Maide 👋
-A passionate developer from Turkey. I am currently working on frontend technologies and creating websites on WordPress and Squarespace. 
+A passionate developer from Turkey. I am currently working on backend technologies like C# and Java. 
 
 Also, learning **Django and React**
 
