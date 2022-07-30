@@ -1,7 +1,7 @@
 ### Hi there I am Maide 👋
 A passionate developer from Turkey. I am currently working on backend technologies like C# and Java. 
 
-Also, learning **Django and React**
+Also, learning **Node.js and React**
 
 
 <h3 align="left">Languages and Tools:</h3>
